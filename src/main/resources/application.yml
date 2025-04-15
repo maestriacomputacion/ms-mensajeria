@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: mensajeria
+
+server:
+  port: 443
+  servlet:
+    context-path: /maestria-computacion
+
